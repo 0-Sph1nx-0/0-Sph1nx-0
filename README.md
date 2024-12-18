@@ -4,6 +4,7 @@ I’m a **Backend Developer** with a focus on creating scalable and efficient so
 I enjoy solving complex problems and continually learning new technologies to refine my craft.
 Currently, I'm exploring advanced backend architecture and DevOps practices to enhance my skills and build even better systems.  
 
+I’m open to new opportunities and collaborations to work on impactful projects and tackle exciting challenges together.
 
 ## 📫 Connect With Me
   - Email: nikita.ryapok@proton.me
