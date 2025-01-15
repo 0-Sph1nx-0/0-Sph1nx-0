@@ -1,4 +1,4 @@
-# 👋 Hello There! I'm Mykyta Riapov
+## About Me
 
 I’m a **Backend Developer** with a focus on creating scalable and efficient solutions. 
 I enjoy solving complex problems and continually learning new technologies to refine my craft.
@@ -6,18 +6,27 @@ Currently, I'm exploring advanced backend architecture and DevOps practices to e
 
 I’m open to new opportunities and collaborations to work on impactful projects and tackle exciting challenges together.
 
-## 📫 Connect With Me
+## Connect With Me
+
   - Email: nikita.ryapok@proton.me
 
-## Projects
+## Projects 
+
 ### <a href='https://github.com/Forum-System-Developers/job-match'>Rephera</a>:
   - Connect businesses with professionals. The platform where talented freelancers meet companies seeking skilled professionals. <a href='https://www.rephera.com/'>Visit</a> our website.
 
 ### <a href='https://github.com/Forum-System-Developers/forum-system-api'>Forum App</a>:
   - This web application is designed for hot discussions and conversations about everything in this world, forum platform. <a href='https://www.forum-ham.xyz/'>Visit</a> our website.
 
+## Currently working on
 
-## 🚀 Tech-Stack
+### <a href='https://github.com/0-Sph1nx-0/hotkey-translate'>Hotkey-Translate</a>:
+ - Streamline your communication with a translator that works anywhere, replacing highlighted text with its translated version in real time.
+
+### <a href='https://github.com/0-Sph1nx-0/MirrorInvest'>MirrorInvest</a>:
+ - This application calculates the annual percentage in crypto wallets and will recommend you to trade according to the exact same tactics.
+
+## Tech-Stack
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-800000?style=for-the-badge&logo=alchemy&logoColor=white)](https://www.sqlalchemy.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)  
